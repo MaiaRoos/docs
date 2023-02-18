@@ -1,5 +1,5 @@
-# Welcome to Sloth Internet
+# Welcome to platypus Internet
 
-## Not As Slow As You Might Think!
+## Not As wierd As You Might Think!
 
-### Testing from Maia
+### Testing from Maia Roos
