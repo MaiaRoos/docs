@@ -57,6 +57,7 @@ nav:
     - Welcome: index.md
   - How To:
     - Guides: how-to/how-to-guides.md
+    - Getting Started: how-to/gettingstarted.md
   - Blog:
     - Blog: blog/blog.md
 
