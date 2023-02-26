@@ -1,7 +1,7 @@
 site_name: Maia's Documentation
 theme:
   name: material
-  logo: docs4.png
+  logo: logo2.png
   favicon: logo.png
   features:
     - navigation.tabs
