@@ -1,7 +1,7 @@
 site_name: Maia's Documentation
 theme:
   name: material
-  logo: pigeon.png
+  logo: dogs.png
   favicon: logo.png
   features:
     - navigation.tabs
