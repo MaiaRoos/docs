@@ -1,7 +1,7 @@
 site_name: Maia's Documentation
 theme:
   name: material
-  logo: cat.png
+  logo: springbok.png
   favicon: logo.png
   features:
     - navigation.tabs
