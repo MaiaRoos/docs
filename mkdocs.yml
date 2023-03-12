@@ -2,7 +2,7 @@ site_name: Maia's Documentation
 theme:
   name: material
   logo: sloth.png
-  favicon: logo1.png
+  favicon: doggy.png
   features:
     - navigation.tabs
   icon:
