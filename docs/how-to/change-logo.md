@@ -12,3 +12,16 @@
 
 ## Working with VScode
 - Open VScode
+- Open your project
+- Open file mkdocs.yml
+- Change the file name for logo to use your new image file
+- Press ctrl+s to save your changes
+
+## Working with github desktop
+- Open github desktop
+- Write the commit message
+- Press the "commit to main" button
+- Press the "push origin" button
+
+ ## Working with github
+ - Open github project using your internet browser
