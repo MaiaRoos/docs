@@ -23,5 +23,5 @@
 - Press the "commit to main" button
 - Press the "push origin" button
 
- ## Working with github
+## Working with github
  - Open github project using your internet browser
