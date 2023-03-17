@@ -24,7 +24,5 @@
 - Press the "push origin" button
 
 ## Working with github
-
-
 - Open github project using your internet browser
-Open actions and wait for it to finish
+- Open actions section and wait for it to finish
