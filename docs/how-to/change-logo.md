@@ -26,6 +26,6 @@
 ## Working with github
 - Open github project using your internet browser
 - Open actions section and wait for it to finish
- 
+
 ## Tips & Tricks
-Then press F2 or Ctrl r to reboot
+ -If your website does not show the new colour or logo, press the F5 Key or “Ctrl+R” to reload the page
