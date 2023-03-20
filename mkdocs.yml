@@ -1,7 +1,7 @@
 site_name: Maia's Documentation
 theme:
   name: material
-  logo: dragon.png
+  logo: unicorn.png
   favicon: doggy.png
   features:
     - navigation.tabs
