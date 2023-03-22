@@ -29,3 +29,4 @@
 
 ## Tips & Tricks
  - If your website does not show the new colour or logo, press the F5 Key or “Ctrl+R” to reload the page
+ - Then brava!you now have a new logo!!!
