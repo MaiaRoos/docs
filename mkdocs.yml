@@ -1,7 +1,7 @@
 site_name: Maia's Documentation
 theme:
   name: material
-  logo: star.png
+  logo: dolphin.png
   favicon: moon.png
   features:
     - navigation.tabs
