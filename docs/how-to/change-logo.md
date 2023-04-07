@@ -31,3 +31,4 @@
  - If your website does not show the new colour or logo, press the F5 Key or “Ctrl+R” to reload the page
  - Then brava! You now have a new logo!!!
  - You can also try a different browser if the changes are not reflected.
+ - Chrome, Edge, Internet Explorer & FireFox are all types of internet browsers that let you browse the internet.
