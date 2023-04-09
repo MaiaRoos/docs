@@ -5,7 +5,7 @@ theme:
   favicon: starfish.png
   features:
     - navigation.tabs
-        repo: fontawesome/brands/github
+      repo: fontawesome/brands/github
   palette: 
 
     # Palette toggle for light mode
