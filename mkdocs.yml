@@ -1,7 +1,7 @@
 site_name: Maia's Documentation
 theme:
   name: material
-  logo: star.png
+  logo: easterbunnie.png
   favicon: doggy.png
   features:
     - navigation.tabs
