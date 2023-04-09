@@ -3,9 +3,9 @@ theme:
   name: material
   logo: easterbunnie.png
   favicon: starfish.png
-  features:
+features:
     - navigation.tabs
-
+  icon:
     repo: fontawesome/brands/github
   palette: 
 
