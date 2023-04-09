@@ -1,9 +1,9 @@
 site_name: Maia's Documentation
 theme:
   name: material
-  logo: easterbunnie.png
-  favicon: starfish.png
-features:
+  logo: star.png
+  favicon: doggy.png
+  features:
     - navigation.tabs
   icon:
     repo: fontawesome/brands/github
