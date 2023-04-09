@@ -1,13 +1,11 @@
 site_name: Maia's Documentation
 theme:
   name: material
-  logo: easter bunnie.png
+  logo: easterbunnie.png
   favicon: starfish.png
   features:
     - navigation.tabs
-    
-
-    repo: fontawesome/brands/github
+        repo: fontawesome/brands/github
   palette: 
 
     # Palette toggle for light mode
